@@ -1,1 +1,3 @@
 Anoteer file
+
+Some minor changes to this file.
